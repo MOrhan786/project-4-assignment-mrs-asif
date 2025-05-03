@@ -5,7 +5,7 @@ Assignments step 00 to 07 :
 https://colab.research.google.com/drive/1shoS2D9d9OtRCG_fdf1XrMta12Ws053i?usp=sharing
 
 Assignments 01 Basics :
-[https://colab.research.google.com/drive/1YXQWhcoJUe8bd2vUhOWqPSJQbYISNe9f?usp=sharing]
+https://colab.research.google.com/drive/14VNa7_0FhKHQhXyUQmddgalyW46OswZg?usp=sharing
 
 Assignments 1 to 6 Compulsory :
 [https://colab.research.google.com/drive/1j_u4289Bvm_T3UB2QVP_oUGeGJuBlJhD?usp=sharing]
