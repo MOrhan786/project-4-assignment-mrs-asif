@@ -8,4 +8,4 @@ Assignments 01 Basics :
 https://colab.research.google.com/drive/14VNa7_0FhKHQhXyUQmddgalyW46OswZg?usp=sharing
 
 Assignments 1 to 6 Compulsory :
-[https://colab.research.google.com/drive/1j_u4289Bvm_T3UB2QVP_oUGeGJuBlJhD?usp=sharing]
+https://colab.research.google.com/drive/1RASBMWIZCjVy6s4j53HQrnEyc7y8vnpe?usp=sharing
